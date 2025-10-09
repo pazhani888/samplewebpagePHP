@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to My Simple PHP Site</title>
+    <title>Welcome to My Simple PHP Site!!</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
