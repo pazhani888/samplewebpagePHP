@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1> Hello from Azure PHP App deployment  !</h1>
+    <h1> Hello from Azure PHP App   !</h1>
     <p>This is the home page deployed via GitHub → Azure CI/CD.</p>
     <nav>
         <a href="index.php">Home</a> |
